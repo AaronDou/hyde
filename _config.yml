@@ -4,7 +4,7 @@ plugins:
   - pygments.rb
   - jekyll-paginate
 
-markdown:         redcarpet
+# markdown:         redcarpet
 highlighter:      pygments
 
 # Permalinks
